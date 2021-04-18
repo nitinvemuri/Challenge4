@@ -25,7 +25,9 @@ WHEN the game is over
 THEN I can save my initials and score
 # Mock-Up
 The following animation demonstrates the application functionality:
+
 04-web-apis-homework-demo.gif
+
 
 
 
